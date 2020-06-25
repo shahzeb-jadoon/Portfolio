@@ -1,6 +1,6 @@
 # Portfolio
 
-I am a graduate of [Wartburg College](https://www.wartburg.edu/) with a Bachelor's degree in Computer Science & Actuarial Science. I've also studied Data Mining & Economics extensively in my curriculum.
+I am a graduate of [Wartburg College](https://www.wartburg.edu/) with a Bachelor's degree in Computer Science & Actuarial Science. I've also studied Data Mining & Economics extensively in my curriculum. These are some of the algorithms I've recently coded to showcase my coding style.
 
 ## Sieve:
 

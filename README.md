@@ -43,4 +43,4 @@ The knapsack.py file contains the Knapsack class which uses the concept of Dynam
 The rod_cutting.py includes the RodCutting Class which uses the concept of Dynamic Programming by storing the previously calculated values by the algorithm using the memoization technique provided by Python. It calculates the lengths that the original rod should be cut into to get the best cost that can be attained from the buyers.
 
 ### Notes:
-graph.py & graphics.py (created by John Zelle) are helping modules for these subset iterator and convex hull respectively. Also, I worked with Takeaki Doi on a few of the files in this portfolio.
+graph.py & graphics.py (created by [John Zelle](https://mcsp.wartburg.edu/zelle/)) are helping modules for these subset iterator and convex hull respectively. Also, I worked with Takeaki Doi on a few of the files in this portfolio.

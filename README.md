@@ -59,4 +59,4 @@ The rod_cutting.py includes the RodCutting Class which uses the concept of Dynam
 
 ### Notes:
 
-graph.py & graphics.py (latter created by [John Zelle](https://mcsp.wartburg.edu/zelle/)) are helping modules for these subset iterator and convex hull respectively. Also, I worked with Takeaki Doi on a few of the files in this portfolio.
+graph.py & graphics.py (latter created by [John Zelle](https://mcsp.wartburg.edu/zelle/)) are helping modules for these subset iterator and convex hull respectively. Also, I worked with [Takeaki Doi](https://github.com/walkdatalk) on a few of the files in this portfolio.
